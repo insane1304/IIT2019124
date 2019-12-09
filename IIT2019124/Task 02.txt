@@ -2,4 +2,4 @@ APPD- To learn to make some best, useful and interesting apps.
 
 WEBD- To make beautiful new websites.
 
-FOSS- To learn githun platform and work my best on it.
+FOSS- To learn github platform and work my best on it.
