@@ -1,1 +1,5 @@
-# IIT2019124
+APPD- To learn to make some best, useful and interesting apps.
+
+WEBD- To make beautiful new websites.
+
+FOSS- To learn githun platform and work my best on it.
